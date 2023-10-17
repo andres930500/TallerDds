@@ -1,0 +1,102 @@
+[
+  {
+      "id": 1,
+      "name": "Andres Gonzalez",
+      "birthdate": "1980-05-15"
+  },
+  {
+      "id": 2,
+      "name": "Carlos Andres Castañeda",
+      "birthdate": "1990-08-21"
+  },
+  {
+      "id": 3,
+      "name": "Pepito Peres",
+      "birthdate": "2019-03-10"
+  },
+  {
+      "id": 4,
+      "name": "Jacobo Gonzalez",
+      "birthdate": "1988-11-29"
+  },
+  {
+      "id": 5,
+      "name": "Cieglo Gladys",
+      "birthdate": "1982-07-03"
+  },
+  {
+      "id": 6,
+      "name": "Alejandro Serna",
+      "birthdate": "1995-04-17"
+  },
+  {
+      "id": 7,
+      "name": "William Turner",
+      "birthdate": "1970-12-05"
+  },
+  {
+      "id": 8,
+      "name": "Olivia Martin",
+      "birthdate": "2018-09-14"
+  },
+  {
+      "id": 9,
+      "name": "James bond",
+      "birthdate": "1987-06-08"
+  },
+  {
+      "id": 10,
+      "name": "Charlotte lara",
+      "birthdate": "1989-01-25"
+  },
+  {
+      "id": 11,
+      "name": "Daniel Lopez",
+      "birthdate": "1978-02-19"
+  },
+  {
+      "id": 12,
+      "name": "Lily Anderson",
+      "birthdate": "2021-10-07"
+  },
+  {
+      "id": 13,
+      "name": "Joseph Perez",
+      "birthdate": "1992-03-28"
+  },
+  {
+      "id": 14,
+      "name": "Emily Ruiz",
+      "birthdate": "1979-06-22"
+  },
+  {
+      "id": 15,
+      "name": "David Gonzalez",
+      "birthdate": "1981-12-14"
+  },
+  {
+      "id": 16,
+      "name": "Ava Gonzalez",
+      "birthdate": "1991-07-11"
+  },
+  {
+      "id": 17,
+      "name": "Samuel Taylor",
+      "birthdate": "1986-04-02"
+  },
+  {
+      "id": 18,
+      "name": "Mia Rodriguez",
+      "birthdate": "2020-02-03"
+  },
+  {
+      "id": 19,
+      "name": "Benjamin Garcia",
+      "birthdate": "1977-09-26"
+  },
+  {
+      "id": 20,
+      "name": "Sofia Perez",
+      "birthdate": "2020-05-30"
+  }
+]
